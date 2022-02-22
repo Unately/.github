@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-    <img src="../images/unately-banner.png" alt="Logo" width="512" height="256">
+    <img src="/images/unately-banner.png" alt="Logo" width="512" height="256">
 
 <h3 align="center">uBingo</h3>
 
